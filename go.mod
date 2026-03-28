@@ -12,6 +12,7 @@ require (
 	github.com/ThreeDotsLabs/watermill v1.4.7
 	github.com/adyen/adyen-go-api-library/v7 v7.3.1
 	github.com/bombsimon/logrusr/v3 v3.1.0
+	github.com/checkout/checkout-sdk-go v1.7.2
 	github.com/emvi/iso-639-1 v1.1.1
 	github.com/formancehq/go-libs/v3 v3.0.2-0.20250814071617-0f5bb98d939b
 	github.com/formancehq/payments/genericclient v0.0.0-00010101000000-000000000000
@@ -132,6 +133,7 @@ require (
 	github.com/goccy/go-json v0.10.3 // indirect
 	github.com/gogo/protobuf v1.3.2 // indirect
 	github.com/golang/snappy v0.0.4 // indirect
+	github.com/google/go-querystring v1.1.0 // indirect
 	github.com/google/go-tpm v0.9.5 // indirect
 	github.com/google/pprof v0.0.0-20250403155104-27863c87afa6 // indirect
 	github.com/google/shlex v0.0.0-20191202100458-e7afc7fbc510 // indirect
